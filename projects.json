@@ -1,0 +1,17 @@
+[
+    {
+        "projectName": "test1",
+        "startTime": 12,
+        "stopTime": 3
+    },
+    {
+        "projectName": "test2",
+        "startTime": 12,
+        "stopTime": 5
+    },
+    {
+        "projectName": "test3",
+        "startTime": 2,
+        "stopTime": 5
+    }
+]
